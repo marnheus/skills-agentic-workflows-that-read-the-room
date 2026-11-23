@@ -36,3 +36,16 @@ Source: [GitHub Changelog](https://github.blog/changelog/) (items from Nov 17–
 
 - **Red Hat Enterprise Linux runner images are generally available**: [changelog](https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available).
 - **Code coverage uploads now flag invalid report formats**: [changelog](https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats).
+
+### Security
+
+- **Secret scanning on demand for developers and agents**: [changelog](https://github.blog/changelog/2026-11-17-secret-scanning-on-demand-for-developers-and-agents).
+- **Security advisory permissions are now generally available**: [changelog](https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available).
+
+### GitHub Blog reads
+
+Source: [GitHub Blog](https://github.blog/latest/).
+
+- [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
+- [Beyond code generation: A developer's guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
+- [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)
