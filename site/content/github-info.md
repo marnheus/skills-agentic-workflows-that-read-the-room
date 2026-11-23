@@ -23,6 +23,8 @@ Source: [GitHub Changelog](https://github.blog/changelog/) (items from Nov 17–
 
 - **Pin favorite repositories to your dashboard** to get back to the projects you use most: [changelog](https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard).
 - **Pull request overview improvements** are in public preview: [changelog](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview).
+- **Issue statuses and repository boards** are in public preview: [changelog](https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview).
+- **Issue types and fields** are now available for personal accounts: [changelog](https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts).
 - **GitHub CLI can now wait for pull request events**: [changelog](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli).
 - **GitHub Desktop supports multiple accounts per host**: [changelog](https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host).
 
