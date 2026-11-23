@@ -53,7 +53,7 @@ added or revised claim. Do not invent details or make date-only changes.
 If there are no substantive updates supported by the sources, call `noop`
 with a brief explanation instead of creating a pull request.
 
-Otherwise, use `safe-outputs` with `create-pull-request` to open one pull request
-for Mona to review. Include "GitHub Info" in the title and summarize the changes
+Otherwise, use `safe-outputs` with `create-pull-request` to open one pull request for Mona to review.
+Include "GitHub Info" in the title and summarize the changes
 and source links in the body. Do not write directly to `main`, merge the pull
 request, or publish the website; leave approval and publication to Mona.
